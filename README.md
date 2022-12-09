@@ -11,3 +11,11 @@ Loss Function :
 * BCE loss
 * Lovasz Loss for continuous mapping of Discrete Jaccard loss Domain
 * Hausdorff Loss to reduce HD (Reference: )
+
+## Performance
+
+### Ground Truth
+![image](https://user-images.githubusercontent.com/32697109/206634874-708cf49d-53fa-4e1a-8fcb-4b2d86c4986b.png)
+
+### Prediction
+![image](https://user-images.githubusercontent.com/32697109/206634901-c3378f84-4c99-4eed-b9c3-cfc94a41783d.png)
